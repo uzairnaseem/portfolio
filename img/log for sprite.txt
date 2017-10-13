@@ -1,0 +1,52 @@
+every value is in "px" like mentioned in first block. dont just copy and paste in this file only co ordinates are given another file is provided thats an html file see its code the technique is provided there
+another image is provided that is supposed to be put as the background of your page as discused before
+
+menu bar white {
+width:65px
+height:50px 
+back pos: -51px -73px
+for black image back pos is :-304px -73px
+}
+menu bar cross white {
+width:65px
+height:50px 
+back pos: -179 -74
+for black image back pos is :-436px -74px
+}
+star white {
+width:78px
+height:74px 
+back pos: -51px -161px
+for black image back pos is :-78px -166px
+}
+star white {
+width:59px
+height:59px 
+back pos: -61px -274px
+for black image back pos is :-166px -275px
+}
+roles section image {
+width:279px
+height:279px 
+back pos: -26px -389px
+}
+members section image {
+width:279px
+height:279px 
+back pos: -26px -705px
+}
+technologies section image {
+width:279px
+height:304px 
+back pos: -26px -1351px
+}
+contact section image {
+width:279px
+height:279px 
+back pos: -26px -1732px
+}
+about section image {
+width:279px
+height:279px 
+back pos: -26px -1024px
+}
